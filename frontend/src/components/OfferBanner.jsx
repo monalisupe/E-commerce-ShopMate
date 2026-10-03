@@ -1,6 +1,4 @@
 
-
-
 // import Headphones from "../assets/Headphones.jpg";
 import headset1 from "../assets/headset1.png";
 

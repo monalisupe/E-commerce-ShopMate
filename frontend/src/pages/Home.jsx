@@ -1,9 +1,3 @@
-/*
-import HeroSection from "./components/HeroSection";
-import FeatureSection from "./components/FeatureSection";
-import Categories from "./components/Categories";
-import Products from "./components/Products";
-import OfferBanner from "./components/OfferBanner";*/
 
 import HeroSection from "../components/HeroSection";
 import FeatureSection from "../components/FeatureSection";

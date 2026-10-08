@@ -1,25 +1,3 @@
-// const express = require("express");
-// //create obj route and store product related data here 
-// const router = express.Router();
-
-// const{
-//     getFeatureProduct
-// }= require("../controllers/productController");
-
-// router.get("/feature-product", getFeatureProducts);
-
-// // router.get("/products" , (req , res)=>{
-// //     res.json({
-// //         message : "Product Router is working..!!"
-// //     });
-// // });
-
-// module.exports = router;
-
-// ============================================
-// PRODUCT ROUTES
-// ============================================
-
 // Import Express
 const express = require("express");
 

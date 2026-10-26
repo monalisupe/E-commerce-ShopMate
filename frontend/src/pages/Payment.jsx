@@ -1,9 +1,12 @@
 import { useState } from "react";
+import {useCart} from "../context/CartContext";
 
 function Payment() {
   const [paymentStep, setPaymentStep] = useState(1);
   const [paymentMethod, setPaymentMethod] = useState("");
 
+  const {cart} = useCart();
+  
   const [orderId] = useState(
     "ORD" + Math.floor(100000 + Math.random() * 900000)
   );
